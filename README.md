@@ -17,7 +17,7 @@ bun dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 - ## Technologies
-- (https://skillicons.dev/icons?react)](https://skillicons.dev) React
+- [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev) React
 - Typescript
 - SCSS
 - Next.js
